@@ -1,0 +1,9 @@
+PL06_VFLY_384.trimmed.trimmed	BRC
+PL06_VFLY_386.trimmed.trimmed	BRC
+PL06_VFLY_388.trimmed.trimmed	BRC
+PL06_VFLY_389.trimmed.trimmed	BRC
+PL06_VFLY_390.trimmed.trimmed	BRC
+PL06_VFLY_391.trimmed.trimmed	BRC
+PL06_VFLY_393.trimmed.trimmed	BRC
+PL06_VFLY_394.trimmed.trimmed	BRC
+PL06_VFLY_396.trimmed.trimmed	BRC

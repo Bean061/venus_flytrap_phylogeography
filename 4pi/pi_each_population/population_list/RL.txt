@@ -1,0 +1,7 @@
+PL07_VFLY_504.trimmed.trimmed	RL
+PL07_VFLY_506.trimmed.trimmed	RL
+PL07_VFLY_507.trimmed.trimmed	RL
+PL07_VFLY_508.trimmed.trimmed	RL
+PL07_VFLY_510.trimmed.trimmed	RL
+PL08_VFLY_513.trimmed.trimmed	RL
+PL08_VFLY_514.trimmed.trimmed	RL

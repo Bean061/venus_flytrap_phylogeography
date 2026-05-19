@@ -1,0 +1,6 @@
+PL06_VFLY_304.trimmed.trimmed	LW
+PL06_VFLY_305.trimmed.trimmed	LW
+PL06_VFLY_307.trimmed.trimmed	LW
+PL06_VFLY_309.trimmed.trimmed	LW
+PL06_VFLY_310.trimmed.trimmed	LW
+PL06_VFLY_311.trimmed.trimmed	LW

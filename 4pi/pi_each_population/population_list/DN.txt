@@ -1,0 +1,7 @@
+P03_VFLY_1.trimmed.trimmed	DN
+P03_VFLY_2.trimmed.trimmed	DN
+P03_VFLY_3.trimmed.trimmed	DN
+P03_VFLY_4.trimmed.trimmed	DN
+P03_VFLY_6.trimmed.trimmed	DN
+P03_VFLY_7.trimmed.trimmed	DN
+P03_VFLY_8.trimmed.trimmed	DN

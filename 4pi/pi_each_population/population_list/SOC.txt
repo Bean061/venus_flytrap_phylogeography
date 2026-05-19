@@ -1,0 +1,3 @@
+PL05_VFLY_250.trimmed.trimmed	SOC
+PL05_VFLY_251.trimmed.trimmed	SOC
+PL05_VFLY_253.trimmed.trimmed	SOC

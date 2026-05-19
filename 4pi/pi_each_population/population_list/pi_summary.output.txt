@@ -1,0 +1,70 @@
+BIL.txt_pi.sites.pi
+Total π: 737.329 SNPs: 15606 Mean π: 0.0472465
+BRC.txt_pi.sites.pi
+Total π: 748.692 SNPs: 15606 Mean π: 0.0479746
+BSL1.txt_pi.sites.pi
+Total π: 718.268 SNPs: 15606 Mean π: 0.0460251
+BSL3.txt_pi.sites.pi
+Total π: 597.207 SNPs: 15606 Mean π: 0.0382678
+BSLO.txt_pi.sites.pi
+Total π: 651.191 SNPs: 15606 Mean π: 0.041727
+CIR.txt_pi.sites.pi
+Total π: 204.321 SNPs: 15604 Mean π: 0.0130941
+CI.txt_pi.sites.pi
+Total π: 670.521 SNPs: 15606 Mean π: 0.0429656
+CRHS.txt_pi.sites.pi
+Total π: 491.337 SNPs: 15606 Mean π: 0.0314839
+CRPR.txt_pi.sites.pi
+Total π: 647.758 SNPs: 15606 Mean π: 0.041507
+CT1.txt_pi.sites.pi
+Total π: 601.614 SNPs: 15606 Mean π: 0.0385502
+CT2.txt_pi.sites.pi
+Total π: 567.514 SNPs: 15605 Mean π: 0.0363675
+DN.txt_pi.sites.pi
+Total π: 842.218 SNPs: 15606 Mean π: 0.0539676
+EPHS.txt_pi.sites.pi
+Total π: 668.419 SNPs: 15604 Mean π: 0.0428364
+FS.txt_pi.sites.pi
+Total π: 498.019 SNPs: 15606 Mean π: 0.031912
+GSN.txt_pi.sites.pi
+Total π: 812.176 SNPs: 15606 Mean π: 0.0520426
+HIB.txt_pi.sites.pi
+Total π: 232.56 SNPs: 15606 Mean π: 0.0149019
+JGSS.txt_pi.sites.pi
+Total π: 759.156 SNPs: 15606 Mean π: 0.0486452
+LOB.txt_pi.sites.pi
+Total π: 547.317 SNPs: 15606 Mean π: 0.0350709
+LW.txt_pi.sites.pi
+Total π: 695.811 SNPs: 15600 Mean π: 0.0446033
+MC.txt_pi.sites.pi
+Total π: 671.402 SNPs: 15606 Mean π: 0.043022
+MD.txt_pi.sites.pi
+Total π: 559.519 SNPs: 15606 Mean π: 0.0358528
+NA1.txt_pi.sites.pi
+Total π: 233.402 SNPs: 15557 Mean π: 0.015003
+NA2.txt_pi.sites.pi
+Total π: 853.37 SNPs: 15606 Mean π: 0.0546822
+PG.txt_pi.sites.pi
+Total π: 505.648 SNPs: 15606 Mean π: 0.0324009
+RL.txt_pi.sites.pi
+Total π: 581.89 SNPs: 15593 Mean π: 0.0373174
+S100.txt_pi.sites.pi
+Total π: 554.382 SNPs: 15605 Mean π: 0.0355259
+S110.txt_pi.sites.pi
+Total π: 678.039 SNPs: 15605 Mean π: 0.0434501
+S8CR.txt_pi.sites.pi
+Total π: 618.776 SNPs: 15606 Mean π: 0.0396499
+S90.txt_pi.sites.pi
+Total π: 625.7 SNPs: 15605 Mean π: 0.0400961
+SOC.txt_pi.sites.pi
+Total π: 199.2 SNPs: 15479 Mean π: 0.012869
+SPC.txt_pi.sites.pi
+Total π: 664.446 SNPs: 15606 Mean π: 0.0425763
+T1L.txt_pi.sites.pi
+Total π: 667.987 SNPs: 15606 Mean π: 0.0428032
+VFTG.txt_pi.sites.pi
+Total π: 805.748 SNPs: 15606 Mean π: 0.0516306
+VL1.txt_pi.sites.pi
+Total π: 586.164 SNPs: 15606 Mean π: 0.0375602
+VL2.txt_pi.sites.pi
+Total π: 567.792 SNPs: 15606 Mean π: 0.036383

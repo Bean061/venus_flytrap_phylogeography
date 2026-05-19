@@ -1,0 +1,12 @@
+PL09_VFLY_680.trimmed.trimmed	S100
+PL09_VFLY_681.trimmed.trimmed	S100
+PL09_VFLY_682.trimmed.trimmed	S100
+PL09_VFLY_683.trimmed.trimmed	S100
+PL09_VFLY_684.trimmed.trimmed	S100
+PL09_VFLY_685.trimmed.trimmed	S100
+PL09_VFLY_686.trimmed.trimmed	S100
+PL09_VFLY_687.trimmed.trimmed	S100
+PL09_VFLY_688.trimmed.trimmed	S100
+PL09_VFLY_689.trimmed.trimmed	S100
+PL09_VFLY_690.trimmed.trimmed	S100
+PL09_VFLY_691.trimmed.trimmed	S100

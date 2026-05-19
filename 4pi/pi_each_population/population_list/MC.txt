@@ -1,0 +1,6 @@
+PL06_VFLY_409.trimmed.trimmed	MC
+PL07_VFLY_410.trimmed.trimmed	MC
+PL07_VFLY_414.trimmed.trimmed	MC
+PL07_VFLY_437.trimmed.trimmed	MC
+PL07_VFLY_438.trimmed.trimmed	MC
+PL07_VFLY_439.trimmed.trimmed	MC

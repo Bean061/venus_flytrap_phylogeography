@@ -1,0 +1,9 @@
+PL06_VFLY_374.trimmed.trimmed	GSN
+PL06_VFLY_375.trimmed.trimmed	GSN
+PL06_VFLY_376.trimmed.trimmed	GSN
+PL06_VFLY_377.trimmed.trimmed	GSN
+PL06_VFLY_378.trimmed.trimmed	GSN
+PL06_VFLY_380.trimmed.trimmed	GSN
+PL06_VFLY_381.trimmed.trimmed	GSN
+PL06_VFLY_382.trimmed.trimmed	GSN
+PL06_VFLY_383.trimmed.trimmed	GSN

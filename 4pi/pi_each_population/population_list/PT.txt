@@ -1,0 +1,3 @@
+PL05_VFLY_229.trimmed.trimmed   PT
+PL05_VFLY_232.trimmed.trimmed   PT
+PL05_VFLY_236.trimmed.trimmed   PT

@@ -1,0 +1,6 @@
+PL06_VFLY_364.trimmed.trimmed	BSL1
+PL06_VFLY_366.trimmed.trimmed	BSL1
+PL06_VFLY_367.trimmed.trimmed	BSL1
+PL06_VFLY_369.trimmed.trimmed	BSL1
+PL06_VFLY_371.trimmed.trimmed	BSL1
+PL06_VFLY_372.trimmed.trimmed	BSL1

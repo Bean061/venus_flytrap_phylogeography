@@ -1,0 +1,11 @@
+PL07_VFLY_480.trimmed.trimmed	SPC
+PL07_VFLY_481.trimmed.trimmed	SPC
+PL07_VFLY_482.trimmed.trimmed	SPC
+PL07_VFLY_483.trimmed.trimmed	SPC
+PL07_VFLY_484.trimmed.trimmed	SPC
+PL07_VFLY_485.trimmed.trimmed	SPC
+PL07_VFLY_498.trimmed.trimmed	SPC
+PL07_VFLY_499.trimmed.trimmed	SPC
+PL07_VFLY_500.trimmed.trimmed	SPC
+PL07_VFLY_501.trimmed.trimmed	SPC
+PL07_VFLY_502.trimmed.trimmed	SPC

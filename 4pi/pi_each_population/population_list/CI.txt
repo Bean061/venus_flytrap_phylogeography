@@ -1,0 +1,12 @@
+P03_VFLY_13.trimmed.trimmed	CI
+P03_VFLY_14.trimmed.trimmed	CI
+P03_VFLY_15.trimmed.trimmed	CI
+P03_VFLY_16.trimmed.trimmed	CI
+P03_VFLY_17.trimmed.trimmed	CI
+P03_VFLY_18.trimmed.trimmed	CI
+P03_VFLY_19.trimmed.trimmed	CI
+P03_VFLY_20.trimmed.trimmed	CI
+P03_VFLY_41.trimmed.trimmed	CI
+P03_VFLY_42.trimmed.trimmed	CI
+P03_VFLY_43.trimmed.trimmed	CI
+P03_VFLY_44.trimmed.trimmed	CI

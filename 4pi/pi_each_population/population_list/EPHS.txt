@@ -1,0 +1,8 @@
+PL04_VFLY_151.trimmed.trimmed	EPHS
+PL04_VFLY_152.trimmed.trimmed	EPHS
+PL04_VFLY_155.trimmed.trimmed	EPHS
+PL04_VFLY_156.trimmed.trimmed	EPHS
+PL04_VFLY_157.trimmed.trimmed	EPHS
+PL04_VFLY_158.trimmed.trimmed	EPHS
+PL04_VFLY_159.trimmed.trimmed	EPHS
+PL04_VFLY_163.trimmed.trimmed	EPHS

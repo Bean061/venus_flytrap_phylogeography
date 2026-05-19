@@ -1,0 +1,7 @@
+PL05_VFLY_218.trimmed.trimmed	JGSS
+PL05_VFLY_219.trimmed.trimmed	JGSS
+PL05_VFLY_221.trimmed.trimmed	JGSS
+PL05_VFLY_222.trimmed.trimmed	JGSS
+PL05_VFLY_224.trimmed.trimmed	JGSS
+PL05_VFLY_225.trimmed.trimmed	JGSS
+PL05_VFLY_226.trimmed.trimmed	JGSS

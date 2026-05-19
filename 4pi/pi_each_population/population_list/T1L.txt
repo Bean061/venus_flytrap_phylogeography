@@ -1,0 +1,12 @@
+PL04_VFLY_109.trimmed.trimmed	T1L
+PL04_VFLY_112.trimmed.trimmed	T1L
+PL04_VFLY_115.trimmed.trimmed	T1L
+PL04_VFLY_117.trimmed.trimmed	T1L
+PL04_VFLY_118.trimmed.trimmed	T1L
+PL04_VFLY_119.trimmed.trimmed	T1L
+PL04_VFLY_124.trimmed.trimmed	T1L
+PL04_VFLY_131.trimmed.trimmed	T1L
+PL04_VFLY_132.trimmed.trimmed	T1L
+PL04_VFLY_133.trimmed.trimmed	T1L
+PL04_VFLY_135.trimmed.trimmed	T1L
+PL04_VFLY_147.trimmed.trimmed	T1L

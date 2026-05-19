@@ -1,0 +1,10 @@
+PL09_VFLY_649.trimmed.trimmed	S8CR
+PL09_VFLY_650.trimmed.trimmed	S8CR
+PL09_VFLY_651.trimmed.trimmed	S8CR
+PL09_VFLY_652.trimmed.trimmed	S8CR
+PL09_VFLY_654.trimmed.trimmed	S8CR
+PL09_VFLY_655.trimmed.trimmed	S8CR
+PL09_VFLY_656.trimmed.trimmed	S8CR
+PL09_VFLY_657.trimmed.trimmed	S8CR
+PL09_VFLY_658.trimmed.trimmed	S8CR
+PL09_VFLY_659.trimmed.trimmed	S8CR

@@ -1,0 +1,27 @@
+$results
+                 Df   Sum Sq    Mean Sq
+Between samples   2 267.3420 133.671013
+Within samples  428 657.0375   1.535134
+Total           430 924.3795   2.149720
+
+$componentsofcovariance
+                               Sigma        %
+Variations  Between samples 1.021059  39.9445
+Variations  Within samples  1.535134  60.0555
+Total variations            2.556193 100.0000
+
+$statphi
+                       Phi
+Phi-samples-total 0.399445
+
+Monte-Carlo test
+Call: as.randtest(sim = res, obs = sigma[1])
+
+Observation: 1.021059
+
+Based on 999 replicates
+Simulated p-value: 0.001
+Alternative hypothesis: greater
+
+     Std.Obs  Expectation     Variance
+1.530934e+02 2.165029e-04 4.446355e-05

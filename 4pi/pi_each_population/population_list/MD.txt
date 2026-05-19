@@ -1,0 +1,5 @@
+P03_VFLY_33.trimmed.trimmed	MD
+P03_VFLY_35.trimmed.trimmed	MD
+P03_VFLY_38.trimmed.trimmed	MD
+P03_VFLY_40.trimmed.trimmed	MD
+PL04_VFLY_102x.trimmed.trimmed	MD

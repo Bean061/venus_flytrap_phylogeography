@@ -1,0 +1,7 @@
+PL08_VFLY_597.trimmed.trimmed	VL2
+PL08_VFLY_598.trimmed.trimmed	VL2
+PL08_VFLY_601.trimmed.trimmed	VL2
+PL08_VFLY_602.trimmed.trimmed	VL2
+PL08_VFLY_603.trimmed.trimmed	VL2
+PL08_VFLY_604.trimmed.trimmed	VL2
+PL08_VFLY_606.trimmed.trimmed	VL2

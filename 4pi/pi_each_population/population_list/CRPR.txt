@@ -1,0 +1,10 @@
+PL05_VFLY_210.trimmed.trimmed	CRPR
+PL05_VFLY_211.trimmed.trimmed	CRPR
+PL05_VFLY_212.trimmed.trimmed	CRPR
+PL05_VFLY_213.trimmed.trimmed	CRPR
+PL05_VFLY_238.trimmed.trimmed	CRPR
+PL05_VFLY_245.trimmed.trimmed	CRPR
+PL05_VFLY_246.trimmed.trimmed	CRPR
+PL05_VFLY_247.trimmed.trimmed	CRPR
+PL05_VFLY_248.trimmed.trimmed	CRPR
+PL05_VFLY_249.trimmed.trimmed	CRPR

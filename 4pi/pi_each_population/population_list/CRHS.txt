@@ -1,0 +1,14 @@
+PL04_VFLY_169.trimmed.trimmed	CRHS
+PL04_VFLY_173.trimmed.trimmed	CRHS
+PL04_VFLY_175.trimmed.trimmed	CRHS
+PL04_VFLY_179.trimmed.trimmed	CRHS
+PL04_VFLY_180.trimmed.trimmed	CRHS
+PL04_VFLY_182.trimmed.trimmed	CRHS
+PL04_VFLY_184.trimmed.trimmed	CRHS
+PL04_VFLY_190.trimmed.trimmed	CRHS
+PL04_VFLY_192.trimmed.trimmed	CRHS
+PL04_VFLY_193.trimmed.trimmed	CRHS
+PL04_VFLY_198.trimmed.trimmed	CRHS
+PL05_VFLY_202.trimmed.trimmed	CRHS
+PL05_VFLY_203.trimmed.trimmed	CRHS
+PL05_VFLY_206.trimmed.trimmed	CRHS

@@ -1,0 +1,7 @@
+PL09_VFLY_702.trimmed.trimmed	CT2
+PL09_VFLY_703.trimmed.trimmed	CT2
+PL09_VFLY_704.trimmed.trimmed	CT2
+PL09_VFLY_706.trimmed.trimmed	CT2
+PL09_VFLY_708.trimmed.trimmed	CT2
+PL09_VFLY_709.trimmed.trimmed	CT2
+PL09_VFLY_710.trimmed.trimmed	CT2

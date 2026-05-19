@@ -1,0 +1,4 @@
+P03_VFLY_21.trimmed.trimmed	NA1
+P03_VFLY_22.trimmed.trimmed	NA1
+P03_VFLY_23.trimmed.trimmed	NA1
+P03_VFLY_24.trimmed.trimmed	NA1
