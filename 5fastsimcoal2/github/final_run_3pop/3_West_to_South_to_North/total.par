@@ -1,0 +1,37 @@
+//Parameters for the coalescence simulation program : fsimcoal2.exe
+3 samples to simulate :
+//Population effective sizes (number of genes) 0 west, 1, South, 2, North
+336326
+471387
+354667
+//Samples sizes and samples age 
+40
+140
+120
+//Growth rates	: negative growth implies population expansion
+0
+0
+0
+//Number of migration matrices : 0 implies no migration between demes
+2
+//Migration matrix 0
+0 0 0
+0 0 3.074838325208650e-05
+0 1.041259868186219e-07 0
+//Migration matrix 1
+0 0 0
+0 0 0
+0 0 0
+//historical event: time, source, sink, migrants, new deme size, new growth rate, migration matrix index
+5 historical event
+166093 0 0 0 9.338957476275397e+00 0 1
+519089 1 1 0 6.819037851193185e+00 0 1
+396625 2 2 0 5.479270703506213e+00 0 1
+680179 2 1 1 1.063362687023127e+00 0 1
+742134 1 0 1 2.914941176512843e+00 0 1
+//Number of independent loci [chromosome] 
+1 0
+//Per chromosome: Number of contiguous linkage Block: a block is a set of contiguous loci
+1
+//per Block:data type, number of loci, per generation recombination and mutation rates and optional parameters
+FREQ  1   0   6.95e-9 OUTEXP

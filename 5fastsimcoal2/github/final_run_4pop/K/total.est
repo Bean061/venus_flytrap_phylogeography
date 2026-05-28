@@ -1,0 +1,48 @@
+// Search ranges and rules file
+// ****************************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max 
+//all Ns are in number of haploid individuals
+1  NCurrentPop0$  unif  1000  100000  output    bounded
+1  NCurrentPop1$  unif  1000  300000  output    bounded
+1  NCurrentPop2$  unif  1000  300000  output    bounded
+1  NCurrentPop3$  unif  1000  300000  output    bounded
+1  NAncestral0$  unif  1000  10000000  output  bounded
+1  NAncestral1$  unif  1000  10000000  output  bounded
+1  NAncestral2$  unif  1000  10000000  output  bounded
+1  NAncestral3$  unif  1000  10000000  output  bounded
+1  NAncestral23$  unif  1000  10000000  output  bounded
+1  NAncestral123$  unif  1000  10000000  output  bounded
+1  NAncestralAll$  unif  1000  10000000  output  bounded
+1  Time0$  unif  100  1000000  output
+1  Time1$  unif  100  1000000  output
+1  Time2$  unif  100  1000000  output
+1  Time3$  unif  100  1000000  output
+1  T_PLS_12$  unif  100  1000000  output
+1  T_PLS_20$  unif  100  1000000  output
+1  T_PLS_23$  unif  100  1000000  output
+0  N2M32$  logunif  1e-2 20 hide
+0  N3M23$  logunif  1e-2 20 hide
+0  N1M21$  logunif  1e-2 20 hide
+0  N2M12$  logunif  1e-2 20 hide
+0  N0M20$  logunif  1e-2 20 hide
+0  N2M02$  logunif  1e-2 20 hide
+
+[COMPLEX PARAMETERS]
+1  TDIV1$ = Time1$ + T_PLS_12$
+1  TDIV2$ = TDIV1$ + T_PLS_20$
+1  TDIV3$ = TDIV2$ + T_PLS_23$
+0  botIntensity0$ = NAncestral0$/NCurrentPop0$ output
+0  botIntensity1$ = NAncestral1$/NCurrentPop1$ output
+0  botIntensity2$ = NAncestral2$/NCurrentPop2$ output
+0  botIntensity3$ = NAncestral3$/NCurrentPop3$ output
+0  RESIZE1$ = NAncestral23$/NAncestral2$ output
+0  RESIZE2$ = NAncestral123$/NAncestral23$ output
+0  RESIZE3$ = NAncestralAll$/NAncestral123$ output
+0  MIG32$ = N2M32$/NCurrentPop2$ output
+0  MIG23$ = N3M23$/NCurrentPop3$ output
+0  MIG21$ = N1M21$/NCurrentPop1$ output
+0  MIG12$ = N2M12$/NCurrentPop2$ output
+0  MIG20$ = N0M20$/NCurrentPop0$ output
+0  MIG02$ = N2M02$/NCurrentPop2$ output

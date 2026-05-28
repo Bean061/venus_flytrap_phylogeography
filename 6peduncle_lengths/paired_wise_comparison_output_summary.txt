@@ -1,0 +1,15 @@
+            Df Sum Sq Mean Sq F value Pr(>F)  
+populations  2  203.4  101.69   3.512 0.0342 *
+Residuals   87 2519.4   28.96                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+	Pairwise comparisons using t tests with pooled SD 
+
+data:  results$length and results$populations 
+
+             CoastalNorth CoastalSouth
+CoastalSouth 1.000        -           
+Sandhills    0.046        0.041       
+
+P value adjustment method: bonferroni 

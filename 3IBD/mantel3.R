@@ -1,5 +1,5 @@
-setwd("/work/users/w/z/wzhou10/venus_flytrap/IBD")
-.libPaths(new ="/work/users/w/z/wzhou10/R_lib_new/")
+setwd("/WORK/PATH/venus_flytrap/IBD")
+.libPaths(new ="/PATH/TO/PACKAGES/R_lib_new/")
 
 #package.install('vegan')
 

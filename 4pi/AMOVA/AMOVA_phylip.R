@@ -1,12 +1,12 @@
-setwd("/work/users/w/z/wzhou10/venus_flytrap/pi/AMOVA")
-.libPaths(new ="/work/users/w/z/wzhou10/R_lib/")
+setwd("/WORK/PATH/venus_flytrap/pi/AMOVA")
+.libPaths(new ="/WORK/PATH/R_lib/")
 
 library(ape)
 library(adegenet)
 library(poppr)
 
 # Load PHYLIP file
-phy <- read.dna("/work/users/w/z/wzhou10/venus_flytrap/50_outfiles/50.usnps", format = "sequential")  # or "interleaved" if that's the format
+phy <- read.dna("/OUTPUT/FROM/IPYRAD/venus_flytrap/50_outfiles/50.usnps", format = "sequential")  # or "interleaved" if that's the format
 
 # Convert to genind
 gen <- DNAbin2genind(phy)
